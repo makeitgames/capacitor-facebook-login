@@ -45,7 +45,7 @@
     "dist/",
     "ios/",
     "android/",
-    "CapacitorCommunityFacebookLogin.podspec"
+    "CapacitorFacebookLogin.podspec"
   ],
   "keywords": [
     "capacitor",
